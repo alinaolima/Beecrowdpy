@@ -22,3 +22,9 @@ print(f'CIRCULO: {areaCirculo:.3f}')
 print(f'TRAPEZIO: {areaTrapezio:.3f}')
 print(f'QUADRADO: {areaQuadrado:.3f}')
 print(f'RETANGULO: {areaRetangulo:.3f}')
+
+#outra forma de fazer a leitura e atribuição
+#numeros = list(map(float,input().split()))
+#A = numeros[0]
+#B = numeros[1]
+#C = numeros[2]
